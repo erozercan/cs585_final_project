@@ -1,1 +1,1 @@
-
+The results of the different models are here. There are three different models: Markov Chains with Uniform distribution, Markov Chains with direction, and Kalman Filter. And there are two videos, z3 and z4. In z3 there are 2 fish. So there are two different RMSE scores and predictions (in terms of state) under z3 files. In z4 there are 5 fish. So there are five different RMSE scores and predictions (in terms of state) under z4 files. 
